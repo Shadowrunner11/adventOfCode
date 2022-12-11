@@ -1,0 +1,10 @@
+.vscode/
+*.env
+parcel-cache/
+
+
+# artifacts
+bin/
+dist/
+node_modules/
+
